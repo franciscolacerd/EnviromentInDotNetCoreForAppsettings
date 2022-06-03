@@ -1,4 +1,4 @@
-# EnviromentInDotNetCoreForAppsettings
+# Enviroment In DotNetCore For Appsettings
 
 TOOLS - How to add enviroment in DotNetCore for appsettings.json file
 
